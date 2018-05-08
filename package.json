@@ -1,0 +1,17 @@
+{
+  "name": "scarface-cli",
+  "version": "1.0.0",
+  "description": "Command Line Interface to scarface library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Bertoni de Paula",
+  "license": "MIT",
+  "bin": {
+    "scarface": "index.js"
+  },
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
+}
